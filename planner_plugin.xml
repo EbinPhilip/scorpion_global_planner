@@ -1,0 +1,8 @@
+ 
+<library path="lib/libscorpion_global_planner">
+  <class name="scorpion_global_planner/GlobalPlanner" type="scorpion_global_planner::GlobalPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A implementation of an occupancy grid based global planner using A*
+    </description>
+  </class>
+</library>
